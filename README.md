@@ -2,7 +2,8 @@
 
 - A modern and secure mobile banking application built with Flutter for the frontend and Firebase for the backend. This app provides essential banking functionalities, ensuring an intuitive user experience and robust security.
 
-# Features
+## Features
+
 - User Authentication: Secure login and registration using Firebase Authentication.
 - Account Management: View account balances, transaction history, and account details.
 - Money Transfers: Send and receive money seamlessly.
@@ -11,25 +12,25 @@
 - User Profile: Manage user profiles and update personal information.
 - Security: Two-factor authentication (optional) and encrypted data storage.
 
+## Tech Stack
 
-
-# Tech Stack
 - Frontend: Flutter (Dart)
 - Backend: Firebase
 
-# Getting Started
+## Getting Started
+
 - Prerequisites
 Flutter SDK installed.
 A Firebase project set up. Guide.
 Android Studio, Visual Studio Code, or any preferred IDE.
 
-# Installation
+## Installation
 
 Clone this repository:
 git clone https://github.com/Lenkaa3792/Mywallet.git
 cd Mywallet
 
-# Install dependencies:
+## Install dependencies:
 
 flutter pub get
 Configure Firebase:
@@ -37,13 +38,16 @@ Configure Firebase:
 Add your google-services.json (for Android) and GoogleService-Info.plist (for iOS) to the respective directories.
 Enable required Firebase services in the Firebase Console.
 
-# Run the app:
+## Run the app:
+
 flutter run
 
-# Contribution
+## Contribution
+
 We welcome contributions! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-# Fork the project.
+## Fork the project.
+
 - Create your feature branch:
 git checkout -b feature/YourFeatureName
 
@@ -55,6 +59,6 @@ git push origin feature/YourFeatureName
 
 - Open a pull request.
 
-# License
-This project is licensed under the MIT License.
+## License
 
+This project is licensed under the MIT License.
